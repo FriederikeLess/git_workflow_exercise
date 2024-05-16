@@ -1,0 +1,3 @@
+The new branch has been created.
+Now this file was added and it gets some content.
+Next this file is added to the staging area with 'git add feature.txt'.
